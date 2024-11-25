@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is my First React training",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shagunnn05/React.git"
+  },
+  "author": "Sagun Bhandari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shagunnn05/React/issues"
+  },
+  "homepage": "https://github.com/shagunnn05/React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.1"
+  }
+}
